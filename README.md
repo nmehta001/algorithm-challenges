@@ -1,3 +1,23 @@
+# Set-up
+
+To set up the project please use the package manger of your choice
+
+NPM:
+
+`npm i`, `npm install`
+
+Yarn:
+
+`yarn`
+
+# Testing
+
+To test use the following command:
+
+`<package manager> test`
+
+Because Jest is being used, please be sure to read the instructions in the command line, or press a to run all tests
+
 # Challenges
 
 ## Number Search Challenge
